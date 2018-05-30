@@ -1,5 +1,20 @@
 # Fastcampus_Back-End
 
+## 목표 
+1. 처음으로 back-end 부분을 node.js로한다
+2. 파일 업로드/다운로드 처리해보자
+3. FCM까지 구현해보기
+
+## 부족했던점 
+1. multer의 처리
+    - multer 사용법 미흡
+2. DataBase 
+    - 현업에서는 DataBase를 연결을 sequelize(ORM)로 구현하는데 못했다 
+3. FCM or APNS
+    - APP 개발과 back-end 개발 까지 할려구하니 시간이 부족했다
+
+</br>
+
 PS :) connectedDiary에서 사용한 백앤드 Table 입니다
 
 DataBase Tables
